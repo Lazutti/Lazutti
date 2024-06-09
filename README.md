@@ -1,16 +1,18 @@
 # 💫 About Me:
+```javascript
 class Lazutti {
-    constructor(options) {
-        this.name = "Eren",
-        this.gender = "Male",
-        this.length = "181",
-        this.type = "human",
-        this.age = "19",
-        this.discord.tag = "lazutti"
-    };
+  constructor(options) {
+    this.name = "Eren";
+    this.gender = "Male";
+    this.length = "181";
+    this.type = "human";
+    this.age = "19";
+    this.discord.tag = "lazutti";
+  }
 }
 
-module.exports = Lazutti
+module.exports = Lazutti;
+
 
 
 ## 🌐 Socials:
