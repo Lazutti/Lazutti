@@ -1,5 +1,5 @@
 # 💫 About Me:
-```javascript
+
 class Lazutti {
   constructor(options) {
     this.name = "Eren";
