@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+<h1>💫 About Me:</h1>
+<pre>
 class Lazutti {
   constructor(options) {
     this.name = "Eren";
@@ -12,6 +14,7 @@ class Lazutti {
 }
 
 module.exports = Lazutti;
+</pre>
 
 
 
