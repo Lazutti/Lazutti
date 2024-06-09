@@ -1,7 +1,6 @@
-# 💫 About Me:
-
 <h1>💫 About Me:</h1>
 <pre>
+<code>
 class Lazutti {
   constructor(options) {
     this.name = "Eren";
@@ -14,9 +13,8 @@ class Lazutti {
 }
 
 module.exports = Lazutti;
+</code>
 </pre>
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lazutti) 
